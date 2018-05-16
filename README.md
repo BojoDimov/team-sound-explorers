@@ -22,6 +22,7 @@
 5. [How Shazam Works](http://coding-geek.com/how-shazam-works/) много добра статия за задълбочаване на това как се представят аудио сигналите и различните им характеристики като pitch, timbre, envelope и т.н
 6. [Librosa](http://librosa.github.io/librosa/advanced.html) фреймуърк на пайтън за трансфорамция на аудио. Имат множество примери и визуализации на важни характеристики на музиката.
 7. [Notes on music information retrieval](https://musicinformationretrieval.com/index.html) много полезен ресурс свързан със изследване на музикални произведения, който също включва и реализация на някои прости ML модели и също няколко модела за music decomposition.
+8. [Имплементация на Nsynth](https://github.com/tensorflow/magenta/tree/master/magenta/models/nsynth)
 
 ### Оценка на резултата
 На по-нисък етап ще гледаме колко добре нотите в изходната песен съвпадат с тези в новополучената песен.
